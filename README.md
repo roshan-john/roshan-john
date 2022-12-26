@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @roshan-john
-- 👀 I’m interested in Data science
 
 <!---
 roshan-john/roshan-john is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
